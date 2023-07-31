@@ -1,4 +1,4 @@
-# CHICAGO CYCLYST
+# CHICAGO CYCLIST
 En este estudio de caso, se trata de una empresas de alquiler de bicicletas en el que motivo principal del programa de bicicletas compartidas es que las bicicletas pueden desbloquearse desde una estación y devolverse a cualquier otra estación con la ayuda del sistema. 
 Hay 2 tipos de Clientes:
 
